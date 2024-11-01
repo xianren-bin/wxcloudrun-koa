@@ -1,0 +1,8 @@
+{
+    "host": "120.55.92.78",
+    "port": "3306",
+    "user": "root",
+    "password": "bin19930214...",
+    "useConnectionPooling": true,
+    "database": ""
+}

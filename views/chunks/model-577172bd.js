@@ -1,0 +1,1 @@
+import{c as t}from"../index-eb0c0c80.js";function n(e){const o="/model_getSystem.action?code="+e;return t({url:o,method:"post",data:{}})}function r(e){return t({url:"/model_saveBusinesses.action",method:"post",data:e})}function a(e){const o="/queryModels.action?name="+e;return t({url:o,method:"post",data:{}})}export{a,n as q,r as s};

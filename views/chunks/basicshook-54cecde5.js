@@ -1,0 +1,1 @@
+import{s as o}from"../index-eb0c0c80.js";import{d as t}from"./index-7154c37a.js";function l(){const r=t(),e=o(r),s=e.selectLayers.value[0];return{labelPosition:Vue.ref("left"),designerData:e,layer:s}}export{l as u};

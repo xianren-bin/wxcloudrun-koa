@@ -1,0 +1,1 @@
+const l={name:"Tabs切换卡",config:{col_span:24,lyrows:[{id:"index1",name:"首页",type:"layout",col_span:24,lyrows:[]},{id:"index2",name:"页面2",type:"layout",col_span:24,lyrows:[]}]},eventList:[{label:"值改变事件",value:"change"},{label:"点击事件",value:"click"}],OutputValue:[{label:"${label}",value:"${value}"}]};export{l as layerData};

@@ -138,7 +138,7 @@ const router = require('./routers/index');
 app.use(router());
 
 //监听8888端口
-app.listen(80,()=>{
+app.listen(8888,()=>{
 	console.log([
     "                   _ooOoo_",
     "                  o8888888o",
